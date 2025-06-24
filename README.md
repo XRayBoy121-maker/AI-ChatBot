@@ -1,1 +1,5 @@
-A simple project that uses API call function for generating answer. It passes your question as a string and passes the output
+To copy this file in your device run the following codes in CMD
+
+git https://github.com/XRayBoy121-maker/AI-ChatBot.git
+cd clone AI-ChatBot
+python main,py
